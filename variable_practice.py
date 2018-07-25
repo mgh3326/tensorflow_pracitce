@@ -14,3 +14,4 @@ init = tf.global_variables_initializer()
 sess.run(init)
 sess.run(c)
 print(sess.run(c))
+
