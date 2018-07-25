@@ -1,4 +1,5 @@
 import tensorflow as tf
+
 a = tf.Variable(5)
 b = tf.Variable(3)
 c = tf.multiply(a, b)
